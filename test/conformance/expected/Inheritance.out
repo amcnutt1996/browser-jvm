@@ -1,0 +1,16 @@
+Base.clinit Square.clinit Base(square) Square.init(side=0.0) Square()
+Base(circle) Base.init
+square with area 9.0 | round circle named with area 3.14 | 1.0
+Square[square] Circle[circle] 1 true true false
+Child parent-field child-field Child/parent-field Parent parent-field parent-field Parent.static Child.static
+Object String long Integer Object
+ADD+13 0 Op Op; MUL*42 1 Op Op; 
+9 2 VENUS [MERCURY, VENUS, EARTH]
+No enum constant Inheritance.Planet.PLUTO
+mercury venus home 
+42 7
+101 102 Object true
+[L1, L2, L3]
+java.lang.Integer java.lang.String java.lang.Double java.lang.Character null [I [[Ljava.lang.String; Inheritance$Op$1 
+int [Ljava.lang.String; int[][] Inheritance$Inner Inner int true true false
+true true false true

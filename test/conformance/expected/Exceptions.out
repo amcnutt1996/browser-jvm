@@ -1,0 +1,28 @@
+deep 42 Exceptions$MyException: deep thrower 5
+finally runs
+1 2
+CCE class java.lang.String cannot be cast to class java.lang.Integer (java.lang.String and java.lang.Integer are in module java.base of loader 'bootstrap')
+AIOOBE Index 3 out of bounds for length 3
+NPE
+SIOOBE Range [5, 3) out of bounds for length 3
+ASE java.lang.Integer
+NASE -1
+NFE For input string: "12x"
+IOOBE Index 0 out of bounds for length 0
+EIIE init failed
+NCDFE Could not initialize class Exceptions$BadInit
+open a
+open b
+body
+close b
+close a
+caught body failed suppressed=1 close failed b
+inner finally
+multi inner
+wrapped <- first true
+count 25
+SOE
+java.lang.Throwable: plain null java.lang.IllegalStateException: x
+java.lang.Error: custom error
+bottom
+java.lang.IllegalStateException: printed / true

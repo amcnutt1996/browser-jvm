@@ -1,0 +1,17 @@
+bob@example.com user=bob host=example at 5-20
+amy@test.com user=amy host=test at 25-37
+true true a#b#c# \Qa.b\E
+x->1 yy->22 [a, b, c, d]
+[a|] 2 _camel_case_string
+4 XX hello_world
+1267650600228229401496703205376 16 1234567890123456789012345678899 101 17
+11.00 105.0625 3.41667 10.2 0.1000000000 0
+1,234,567.89 6.022e+23      2.718| ab    END c a b
+101010 0 123 -300 127 31 -8
+a/b/c/ 0
+12 apples 3.5 true pears false
+abcd true 15 b 1 65535
+123e4567-e89b-12d3-a456-426614174000 1 36
+dflt else 0 -1
+null true false false true
+0.13 0.1 1 2  99.4%

@@ -1,0 +1,13 @@
+counter 80000 alive false worker-2
+consumed 100 sum 5050
+[fast, slow]
+interrupted false
+main-value initial
+futures 55 true true
+atomic 3000 6010 true 1 6
+locked 1000
+latch 2 3
+item0 item1 item2 null
+handler got thread failure
+main main daemon true state TERMINATED
+async!

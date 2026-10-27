@@ -1,0 +1,26 @@
+6 18 8 9
+7 9 [m] UP false true
+11 42 42 4 3
+ran 5
+consumed
+8
+124 Zed(99)
+[Dave(25), Bob(25), Eve(28), Alice(31), Carol(35)]
+[Carol(35), Alice(31), Eve(28), Dave(25), Bob(25)]
+[Alice, Carol, Eve]
+144 35 28.8
+[Alice, Bob, Carol, Dave, Eve]
+{Berlin=[Dave], London=[Bob, Eve], Paris=[Alice, Carol]}
+{Berlin=1, London=2, Paris=2}
+[1, 3, 5, 7, 9] 30 abc
+1023 4 1-2-3
+true true true false
+{false=[1, 2, 4, 5, 7], true=[0, 3, 6]}
+{x=1, yy=2, zzz=3}
+[10, 20, 30] 2
+Carol empty
+1.5 3.5 7.5 3
+5
+wqe
+a=100;b=200; {a=101, b=200, c=7}
+true 9223372036854775807 2.5 103199

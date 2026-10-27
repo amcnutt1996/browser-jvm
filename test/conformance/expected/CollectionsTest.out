@@ -1,0 +1,32 @@
+[0, 7, 4, 1, 8, 5, 2, 9, 6, 3] 10 1 2 true
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[9, 8, 7, 6, 5, 4, 3, 2, 1, 0] 9 0
+[7, 3, 1]
+[7, 1]
+CME
+[a, b, c, d] ad a d [b, c, d]
+{over=1, the=3, quick=1, lazy=1, jumps=1, end=1, brown=1, dog=1, fox=1}
+3 -1 true 9 11
+{17=v17, 2=v2, 20=v20, 5=v5, 8=v8, 11=v11, 14=v14}
+{brown=1, dog=1, end=1, fox=1, jumps=1, lazy=1, over=1, quick=1, the=3} brown the=3 {brown=1, dog=1, end=1} jumps the
+{z=1, a=4, m=3} z
+[banana, apple, pear, kiwi, fig] [apple, banana, fig, kiwi, pear] [apple, banana, fig]
+[5, 3, 1]
+[2, 1, 3] 2 3 [1]
+1 2 3 5 8 9
+[b, a, bb, ccc, aaa]
+[1, 3, 5, 7, 9] 3 -3
+[9, 7, 5, 3, 1]
+[Apple, apple, banana, cherry]
+[Apple, apple, banana, cherry]
+UOE
+[1, 2, 3] [42] {k=1} [x, y, z] [x, y, z]
+0 508 999 -5543539476749201479 0.6547420655094701 true 0.8980873 -1.7442001633242166
+[610, 526, 568, 155, 315]
+{RED=1, BLUE=3} [RED, GREEN] [RED, GREEN, BLUE] [GREEN, BLUE]
+{1, 5, 6, 7} 4 8
+{even=[0, 2, 4], odd=[1, 3, 5]}
+{one=1} [1, 2] 9 0
+3 Integer[] [7, 1, 7]
+{one, two} 30817 994 true 994 96
+V false Optional[v]

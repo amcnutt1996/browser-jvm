@@ -1,0 +1,20 @@
+bytes 39
+-42 9223372036854775807 3.141592653589793 héllo ☃ true -1 1.25 -1
+1: line one
+2: line two
+3: line three
+x=5\n1.5
+true true true
+true true 39 data.txt /tmp/iotest /tmp/iotest/data.txt
+> first line
+> second ünïcode line
+> third
+true false true [moved.txt]
+FNFE /tmp/iotest/nope.txt (No such file or directory)
+true false true false
+compressed smaller true magic 31 139
+100 repeated text 99
+d4a1185 1a0b045d
+true 63 true
+value|with spaces |é|dflt|3
+1 2 1
